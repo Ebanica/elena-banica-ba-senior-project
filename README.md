@@ -1,4 +1,4 @@
-<img width="1837" height="1384" alt="C10" src="https://github.com/user-attachments/assets/9a51b4b7-1926-4164-b720-726fe031b936" />
+<img width="1837" height="1384" alt="Cyanobacteria Bloom" src="https://github.com/user-attachments/assets/9a51b4b7-1926-4164-b720-726fe031b936" />
 
 <img width="1967" height="1476" alt="C11" src="https://github.com/user-attachments/assets/f848a101-34f3-48fc-9d3b-cb72b9b5da12" />
 
