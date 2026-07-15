@@ -1,3 +1,25 @@
+<img width="1837" height="1384" alt="C10" src="https://github.com/user-attachments/assets/9a51b4b7-1926-4164-b720-726fe031b936" />
+
+<img width="1967" height="1476" alt="C11" src="https://github.com/user-attachments/assets/f848a101-34f3-48fc-9d3b-cb72b9b5da12" />
+
+<img width="1922" height="1454" alt="C12" src="https://github.com/user-attachments/assets/950e30ed-56a3-47ca-b7bb-8729307b8b8a" />
+
+<img width="1910" height="1471" alt="C9" src="https://github.com/user-attachments/assets/2bbc5200-4bf3-46a5-bf62-f7eddf546273" />
+
+<img width="1784" height="1372" alt="C8" src="https://github.com/user-attachments/assets/b0ba5589-29cc-41d9-b641-5eb1392b9dad" />
+
+<img width="1485" height="1116" alt="C6" src="https://github.com/user-attachments/assets/6db4f589-7796-4ef8-b42f-df0112f6bac3" />
+
+<img width="1500" height="1116" alt="C4" src="https://github.com/user-attachments/assets/7e2ba442-110c-4050-9bbe-4989de03c275" />
+
+<img width="1580" height="1192" alt="C3" src="https://github.com/user-attachments/assets/ddba528d-9755-4b98-8f9b-054f58b89577" />
+
+<img width="1664" height="1242" alt="C1" src="https://github.com/user-attachments/assets/cab54c8c-9b7f-416e-ac6a-50761a5e7b23" />
+
+
+
+
+
 # Hello website!
 
 This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
